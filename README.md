@@ -49,7 +49,7 @@ We can see words like fabric, dress, and flattering show up.
 
 ![word_cloud](https://github.com/NadimKawwa/WomeneCommerce/blob/master/plots/wordcloud_1.png)
 
-Let's also take a closer look at the age distribution of our clients in the histogram below.
+Let's also take a closer look at the age distribution of our clients in the histogram below. Most of the clients are in their late 20s-30s, the distribution appears to be  skewed to an audience of young professionals.
 
 ![histo_age](https://github.com/NadimKawwa/WomeneCommerce/blob/master/plots/age_histo.png)
 
